@@ -1,0 +1,9 @@
+TypeScript adds...
+- Types 
+- Next-gen JS features (compiled down even for older browsers)
+- non-JS features like Interfaces or Generics 
+- meta-programming features like decorators
+- rich configuration options
+- modern tooling that helps even in non-TS projects
+
+
